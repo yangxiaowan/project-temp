@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>SpringBootProject</name>
-	<description>YangWan&#39;s Demo</description>
+	<description>YangWan Demo</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
